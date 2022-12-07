@@ -1,0 +1,78 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: rgb(133, 133, 175);
+    margin: 5px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    
+}
+
+header a{
+    text-decoration:none ;
+    background-color: #foe68c;
+    border: 3px solid blue;
+    border-radius: 4px ;
+    padding: 2px;
+    color: white;
+}
+
+h1{
+    color:black ;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 4px;
+    background-color: rgb(90, 92, 165);
+
+}
+
+footer p {
+    background-color: rgb(206, 221, 235);
+    border: 2px solid black;
+}
+
+footer{
+    margin: 3px;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: white;
+}
+
+nav a{
+    border: 3px solid darkgrey;
+    background-color: darkgrey ;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 1px;
+}
+.popular{
+    background-color: white;
+    color: wheat;
+}
+
+.icon{
+    background-color: #DCDCDC;
+    border-radius: 10px;
+}
+
+body{
+    font-size: 20px;
+}
+
+main{
+    margin: 10px;
+}
+
+h2{
+    color: rgb(56, 103, 131);
+}
+
+body{
+    font-size: 20px;
+}
